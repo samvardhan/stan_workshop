@@ -1,1 +1,1 @@
-Bayesian Inference in STAN workshop
+Bayesian Inference in STAN Introduction workshop
