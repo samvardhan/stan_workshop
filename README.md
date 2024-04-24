@@ -8,4 +8,4 @@ In this tutorial, we will walk through the basics of STAN- an open-source softwa
 To learn more about Bayesian Data Science, check out my article [here](https://medium.com/@samvardhanvishnoi2026/a-practical-guide-to-becoming-a-bayesian-data-scientist-i-c4f7a1844825)
 
 Samvardhan Vishnoi-
-Data Science Consultant
+Data Science Consultant@Northwestern University 
