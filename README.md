@@ -8,4 +8,4 @@ In this tutorial, we will walk through the basics of STAN- an open-source softwa
 
 Samvardhan Vishnoi
 
-Data Science Consultant at Northwestern
+Data Science Consultant
